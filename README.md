@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **josetgenao26/josetgenao26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm [***Jose T. Genao***](josetgenao26.github.io), IT Technician, university student, self-taught and currently I'm dedicated to the world of web development.
+
+I am currently learning the technologies:
+- HTML5.
+- CSS3.
+- JavaScript.
+
+If you want to see my projects go to my github page [***josetgenao26***](josetgenao26.github.io) or check [***my repositories***](https://github.com/josetgenao26?tab=repositories).
